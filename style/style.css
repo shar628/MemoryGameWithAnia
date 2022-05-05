@@ -1,0 +1,11 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    /* height: 800px; */
+     /* width: 800px;  */
+     max-width: 600px;
+     max-height: 200px;
+    /* display: grid; */
+    /* grid-template-columns: 10% 10% 10%; */
+    /* grid-template-rows: 60px 60px; */
+}
